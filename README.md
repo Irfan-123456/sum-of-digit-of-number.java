@@ -1,1 +1,1 @@
-# sum-of-digit-of-number.java
+# sum-of-digit-of-number & Prime number.java
